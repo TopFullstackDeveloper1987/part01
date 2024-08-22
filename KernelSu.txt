@@ -1,0 +1,2 @@
+Please check KernelSU on github
+https://github.com/tiann/KernelSU/releases
